@@ -68,7 +68,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/francescococcia/francescococcia/output/snake.svg" alt="Snake animation" />
-
-###
